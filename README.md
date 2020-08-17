@@ -11,10 +11,11 @@ This version supports plotting, showing data and controlling of only one motor a
 # Repository structure:
 * master branch (latest version)
   * python script
-  * windows exe
-  * linux exe
   * user guide
 * old versions
+  
+You can transform your script to exe by using:
+https://pypi.org/project/auto-py-to-exe/
   
 # How to install it?
 1. Run it as python script
