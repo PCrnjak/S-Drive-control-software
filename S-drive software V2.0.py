@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Nov 17 12:25:31 2019
+Created on 17.8.2020
 
 @author: Petar Crnjak mm
 @Version: 2.0
@@ -29,7 +29,7 @@ url_project = 'https://hackaday.io/project/168324-sdrive-small-bldc-driver'
 url_help = 'https://forum.blestron.com'
 url_forum = 'https://forum.blestron.com'
 url_github = 'https://github.com/PCrnjak/S-Drive-control-software'
-url_user_guide = 'https://github.com/PCrnjak/S-Drive-control-software'
+url_user_guide = 'https://github.com/PCrnjak/S-Drive-control-software/wiki'
 
 #------global variables
 
